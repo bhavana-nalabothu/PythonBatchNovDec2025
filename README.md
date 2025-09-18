@@ -36,5 +36,5 @@ This is a repository for My project
 
      push request
 
-     git push origin <filename>git add
+     git push origin <filename>git addgit 
 
