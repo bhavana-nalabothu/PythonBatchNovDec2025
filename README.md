@@ -34,3 +34,7 @@ This is a repository for My project
 
      git checkout -b class01clear
 
+     push request
+
+     git push origin <filename>git add
+
