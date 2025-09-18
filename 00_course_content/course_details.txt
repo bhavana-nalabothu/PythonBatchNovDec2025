@@ -1,0 +1,14 @@
+PYTHON PROGRAMMING COURSE CONTENT
+
+    00. Dev setup
+        Installing IDE/Editor
+        Installing Python and Local setup
+        Github access,creating project
+
+    01.Introduction
+       Importance of Python
+       Two versions of Python(2.x&3.x)
+       built-in functions
+       comment operator
+       Keywords and Identifiers
+       Line continuation and statement seoarator operators
