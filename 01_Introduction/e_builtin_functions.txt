@@ -1,0 +1,16 @@
+print(): Displays output to the console.
+len(): Returns the length (number of items) of an object like a string, list, or tuple.
+input(): Reads a line of text from the user.
+int(), float(), str(), bool(): Convert values to integer, float, string, or boolean types, respectively.
+list(), tuple(), set(), dict(): Create or convert to list, tuple, set, or dictionary data structures.
+abs(): Returns the absolute value of a number.
+max(), min(): Returns the largest or smallest item in an iterable.
+sum(): Calculates the sum of all items in an iterable.
+range(): Generates a sequence of numbers.
+sorted(): Returns a new sorted list from an iterable.
+enumerate(): Adds a counter to an iterable, returning an enumerate object.
+zip(): Combines multiple iterables into a single iterator of tuples.
+open(): Opens a file and returns a file object.
+type(): Returns the type of an object.
+isinstance(): Checks if an object is an instance of a specified class or type.
+help(): Invokes the built-in help system for an object or function.
